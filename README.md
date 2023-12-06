@@ -1,6 +1,15 @@
 # finity_app
+# ScreenShot
 
-A new Flutter project.
+go to lib folder and inside in Screenshot folder ,you can show to app look like in mobile phone
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
