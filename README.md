@@ -1,7 +1,7 @@
 # finity_app
 # ScreenShot
 
-go to lib folder and inside in Screenshot folder ,you can show to app look like in mobile phone
+go to the lib folder and inside in Screenshot folder, you can show what to app looks like in the mobile phone
 
 
 
